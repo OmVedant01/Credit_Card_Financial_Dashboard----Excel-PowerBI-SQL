@@ -1,4 +1,4 @@
-# 💳 Credit Card Financial Dashboard (Power BI + SQL)
+# 💳 Credit Card Financial Dashboard (EXCEL + SQL + Power BI)
 
 ## 📊 Project Overview
 The **Credit Card Financial Dashboard** is an end-to-end data analytics project built using **Microsoft Power BI** and **SQL**.  
